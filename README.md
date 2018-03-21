@@ -12,7 +12,10 @@ Top-Down Attention for Image Captioning and Visual Question Answering"
 Question Answering: Learnings from the 2017 Challenge"
 (https://arxiv.org/abs/1708.02711).
 
-## Architectures 
+## Licence 
+MIT
+
+## Our Architectures 
 ![Models](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/images/VQA_Architecture.png)
 
 ![Models](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/images/Parameter_Tree.png)
