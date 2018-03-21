@@ -1,7 +1,9 @@
 ## Attention on Attention:  Architectures for Visual Question Answering (VQA)
 
-This is the code for our paper by the same name. Currently being processed for arXiv. Link will be up shortly. 
+This is the code for our paper by the same name. Currently being processed for arXiv. Link will be up shortly. Refer to the paper folder in the mean time. 
+
 This Project was done for Stanford's CS 224N and CS 230.
+
 Our model architecture is inspired by the winning entry of the [2017 VQA Challenge](http://www.visualqa.org/challenge.html).
 
 Which follows the VQA system described in "Bottom-Up and
