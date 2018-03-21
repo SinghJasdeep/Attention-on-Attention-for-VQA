@@ -45,7 +45,7 @@ ArXiv link coming soon.
 
 ![Hyper](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/images/Hyperparams.png)
 
-## Attention Visualization
+## Dual Attention Visualization
 
 ![HeatMaps](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/images/Attention.png)
 
