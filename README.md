@@ -68,7 +68,7 @@ The easiest way to download the data is to run the provided script `tools/downlo
 
 Simply run `python main.py` to start training. The default model run is the best performing A3x2. Other model variations can be run using the models flag. The training and validation scores will be printed every epoch, and the best model will be saved under the directory "saved_models". The default flags should give you the result provided in the table above.
 
-### Pre-Trained Models 
+#### Pre-Trained Models 
 
 Certain Pretrained models availible upon request. 
 
