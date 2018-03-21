@@ -12,7 +12,13 @@ Top-Down Attention for Image Captioning and Visual Question Answering"
 Question Answering: Learnings from the 2017 Challenge"
 (https://arxiv.org/abs/1708.02711).
 
-## This Project builds of the create code provided [here](https://github.com/hengyuan-hu/bottom-up-attention-vqa)
+## Architectures 
+![Models](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/images/VQA_Architecture.png)
+
+![Models](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/images/Parameter_Tree.png)
+
+
+## This Project uses code provided [here](https://github.com/hengyuan-hu/bottom-up-attention-vqa)
 We used the preprocessing and base code provided my the above link and then performed and extensive architecture and hyperparameter search. 
 
 ## Results
@@ -52,3 +58,7 @@ The easiest way to download the data is to run the provided script `tools/downlo
 
 Simply run `python main.py` to start training. The training and validation scores will be printed
 every epoch, and the best model will be saved under the directory "saved_models". The default flags should give you the result provided in the table above.
+
+## Our Paper 
+
+![Paper](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/Paper/Attn_on_Attn.pdf)
