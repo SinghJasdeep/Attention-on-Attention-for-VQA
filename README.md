@@ -22,7 +22,7 @@ MIT
 
 
 ## This Project uses code provided [here](https://github.com/hengyuan-hu/bottom-up-attention-vqa)
-We used the preprocessing and base code provided my the above link and then performed and extensive architecture and hyperparameter search. 
+We used the preprocessing and base code provided by the above link and then performed an extensive architecture and hyperparameter search. 
 
 ## Results
 
