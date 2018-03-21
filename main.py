@@ -34,7 +34,7 @@ def parse_args():
     parser.add_argument('--weight_decay', type=float, default=0)
     parser.add_argument('--optimizer', type=str, default='Adamax', help='Adam, Adamax, Adadelta, RMSprop')
     parser.add_argument('--initializer', type=str, default='kaiming_normal')
-    parser.add_argument('--seed', type=int, default=1111, help='random seed')
+    parser.add_argument('--seed', type=int, default=9731, help='random seed')
     args = parser.parse_args()
     return args
 
