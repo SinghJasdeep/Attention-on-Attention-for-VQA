@@ -1,6 +1,6 @@
-# Attention on Attention:  Architectures for Visual Question Answering (VQA)
+# [Attention on Attention:  Architectures for Visual Question Answering (VQA)](http://arxiv.org/abs/1803.07724)
 
-This is the code for our paper by the same name. Currently being processed for arXiv. Link will be up shortly. Refer to the paper folder in the mean time. 
+This is the code for our paper by the same name. Link in the title. 
 
 This Project was done for Stanford's CS 224N and CS 230.
 
@@ -72,6 +72,6 @@ Simply run `python main.py` to start training. The default model run is the best
 
 Certain Pretrained models availible upon request. 
 
-## Our Paper 
+## [Our Paper](http://arxiv.org/abs/1803.07724)
 
 ![Paper](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/Paper/Attn_on_Attn.pdf)
