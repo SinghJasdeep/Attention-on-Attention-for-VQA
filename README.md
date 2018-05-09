@@ -6,11 +6,9 @@ This Project was done for Stanford's CS 224N and CS 230.
 
 Our model architecture is inspired by the winning entry of the [2017 VQA Challenge](http://www.visualqa.org/challenge.html).
 
-Which follows the VQA system described in "Bottom-Up and
-Top-Down Attention for Image Captioning and Visual Question Answering"
-(https://arxiv.org/abs/1707.07998) and "Tips and Tricks for Visual
-Question Answering: Learnings from the 2017 Challenge"
-(https://arxiv.org/abs/1708.02711).
+Which follows the VQA system described in ["Bottom-Up and
+Top-Down Attention for Image Captioning and Visual Question Answering"](https://arxiv.org/abs/1707.07998) 
+and ["Tips and Tricks for Visual Question Answering: Learnings from the 2017 Challenge"](https://arxiv.org/abs/1708.02711).
 
 ## Licence 
 MIT
