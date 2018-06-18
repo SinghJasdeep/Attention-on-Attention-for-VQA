@@ -74,23 +74,9 @@ Certain Pretrained models availible upon request.
 
 ![Paper](https://github.com/SinghJasdeep/Attention-on-Attention-for-VQA/blob/master/Paper/Attn_on_Attn.pdf)
 
-## Citation: 
+## [Citation](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-07724): 
 
-Please use this 
+Please use the Ciation found at: 
 
-@article{DBLP:journals/corr/abs-1803-07724,
-  author    = {Jasdeep Singh and
-               Vincent Ying and
-               Alex Nutkiewicz},
-  title     = {Attention on Attention: Architectures for Visual Question Answering
-               {(VQA)}},
-  journal   = {CoRR},
-  volume    = {abs/1803.07724},
-  year      = {2018},
-  url       = {http://arxiv.org/abs/1803.07724},
-  archivePrefix = {arXiv},
-  eprint    = {1803.07724},
-  timestamp = {Wed, 11 Apr 2018 11:12:46 +0200},
-  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1803-07724},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-07724
+
