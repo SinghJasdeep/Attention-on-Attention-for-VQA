@@ -76,7 +76,7 @@ Certain Pretrained models availible upon request.
 
 ## [Citation](http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-07724): 
 
-Please use the Ciation found at: 
+Please use the Citation found at: 
 
 http://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-1803-07724
 
